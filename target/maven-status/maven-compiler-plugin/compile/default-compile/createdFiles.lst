@@ -1,0 +1,7 @@
+com\netec\levm\bancadigital\entity\CuentaDeCheque.class
+com\netec\levm\bancadigital\entity\Cliente.class
+com\netec\levm\bancadigital\entity\CuentaDeAhorro.class
+com\netec\levm\bancadigital\BancaDigital.class
+com\netec\levm\bancadigital\entity\Cuenta.class
+com\netec\levm\bancadigital\entity\Domicilio.class
+com\netec\levm\bancadigital\entity\Banco.class
